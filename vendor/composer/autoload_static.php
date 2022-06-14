@@ -27,7 +27,7 @@ class ComposerStaticInit9b6e4a609aeb545ba00e162d38073084
         ),
         'I' => 
         array (
-            'ITEC\\PRESENCIAL\\DAW\\' => 20,
+            'ITEC\\PRESENCIAL\\DAW\\BD\\' => 23,
         ),
         'D' => 
         array (
@@ -40,8 +40,8 @@ class ComposerStaticInit9b6e4a609aeb545ba00e162d38073084
         'phpDocumentor\\Reflection\\' => 
         array (
             0 => __DIR__ . '/..' . '/phpdocumentor/reflection-common/src',
-            1 => __DIR__ . '/..' . '/phpdocumentor/type-resolver/src',
-            2 => __DIR__ . '/..' . '/phpdocumentor/reflection-docblock/src',
+            1 => __DIR__ . '/..' . '/phpdocumentor/reflection-docblock/src',
+            2 => __DIR__ . '/..' . '/phpdocumentor/type-resolver/src',
         ),
         'Webmozart\\Assert\\' => 
         array (
@@ -55,7 +55,7 @@ class ComposerStaticInit9b6e4a609aeb545ba00e162d38073084
         array (
             0 => __DIR__ . '/..' . '/nikic/php-parser/lib/PhpParser',
         ),
-        'ITEC\\PRESENCIAL\\DAW\\' => 
+        'ITEC\\PRESENCIAL\\DAW\\BD\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
             1 => __DIR__ . '/../..' . '/src',

@@ -15,5 +15,6 @@
     "files.associations": {
         "*.env.*": "dotenv",
         "*dockerfile*": "dockerfile"
-    }
+    },
+    "liveServer.settings.port": 5501
 }

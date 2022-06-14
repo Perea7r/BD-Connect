@@ -1,18 +1,19 @@
 {
     "require": {
-        "mysqli": "^2.0.0"
+        "php": ">=8",
+        "ext-mysqli": "*"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.5"
     },
     "autoload": {
         "psr-4": {
-            "ITEC\\PRESENCIAL\\DAW\\": "src/"
+            "ITEC\\PRESENCIAL\\DAW\\BD\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "ITEC\\PRESENCIAL\\DAW\\": "src/"
+            "ITEC\\PRESENCIAL\\DAW\\BD\\": "src/"
         }
     }
 }
